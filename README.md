@@ -1,4 +1,4 @@
-awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的Vue相关开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/front-vue)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects)给我们。 
+﻿awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的Vue相关开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/front-vue)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects)给我们。 
 
 如果收录的项目有错误，可以通过[issue](https://github.com/opendigg/awesome-github-vue/issues)反馈给我们。这里的项目Star数不是实时更新的，一般是一周更新一次。 
 
@@ -495,3 +495,4 @@ awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的V
 - [vue-shopping-mall](https://github.com/hj624608494/vue-shopping-mall) ★16 - 基于Vue.js 2.x系列 + vue2-router + axios + iview 商城 
 - [qqmusic](https://github.com/yangbo5207/qqmusic) ★13 - QQ音乐vue 
 - [vue-weather](https://github.com/deshes/vue-weather) ★12 - VueJS天气demo 
+2018-03-27
